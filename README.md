@@ -23,7 +23,3 @@ This script loads the dataset, preprocesses the data, trains the Random Forest m
 ## Input Patient Information:
 
 Use the web interface to input patient information (features) and click the "Predict" button to get the model's prediction for the presence of heart disease.
-
-## Contributing
-
-Contributions to improve the model, add new features, or address issues are welcome. Fork the repository, make your changes, and submit a pull request.
